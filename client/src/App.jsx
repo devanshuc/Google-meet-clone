@@ -6,7 +6,7 @@ function App() {
 		<div>
 			<AppBar position="static" color="inherit">
 				<Typography variant="h2" align="center">
-					Google Meetings
+					AirMeet
 				</Typography>
 			</AppBar>
 			{/* VideoPlayer? */}

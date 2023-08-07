@@ -1,5 +1,5 @@
 const Options = () => {
-	return <></>;
+	return <div>Options</div>;
 };
 
 export default Options;
