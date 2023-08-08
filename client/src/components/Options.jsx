@@ -1,5 +1,5 @@
-const Options = () => {
-	return <div>Options</div>;
+const Options = (props) => {
+	return <div>Options {props.children}</div>;
 };
 
 export default Options;
